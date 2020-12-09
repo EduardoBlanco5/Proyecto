@@ -1,0 +1,12 @@
+Aztecas
+D
+5
+100
+Chichimeca
+C
+9
+100
+Zetas
+J
+15
+100
